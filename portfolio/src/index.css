@@ -1,0 +1,24 @@
+code {
+  font-family: source-code-pro, Menlo, Monaco, Consolas, 'Courier New',
+    monospace;
+}
+
+body {
+  padding: 0;
+  margin: 0;
+  font-size: 18px;
+  line-height: 150%;   
+  background-color: #fefbd8;
+  font-family: Courier, "Lucida Console"
+  }
+
+  img {
+max-width: 100%;
+height: auto;      
+opacity: 0.5;
+border: 2px solid #ddd;
+border-radius: 8px;
+padding: 10px;
+width: 200px;
+float: left;
+}
